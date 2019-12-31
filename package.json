@@ -2,7 +2,7 @@
   "name": "api_interface",
   "version": "1.0.0",
   "description": "Abstracted API Interface",
-  "main": "app.js",
+  "main": "./src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
