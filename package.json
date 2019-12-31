@@ -1,16 +1,15 @@
 {
-  "name": "first_node_app",
+  "name": "api_interface",
   "version": "1.0.0",
-  "description": "first node app",
+  "description": "Abstracted API Interface",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ben Wallace (Benawawa)",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "json-beautify": "^1.1.1",
     "node-fetch": "^2.6.0"
   }
 }
